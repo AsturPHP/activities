@@ -2,9 +2,7 @@
 
 ## Finalidad de este repositorio
 
-
-
-En este repositorio se podrán proponer, mediante issues, posibes charlas, talleres, hackathones, etc. que se puedan desarrollar en la comunidad AsturiasHacking para tener un repositorio de propuestas de cara a futuros meetups.
+En este repositorio se podrán proponer, mediante issues, posibes charlas, talleres, hackathones, etc. que se puedan desarrollar en la comunidad AsturPHP para tener un repositorio de propuestas de cara a futuros meetups.
 
 Si tienes alguna charla que te apetezca dar, algún taller que te apetezca organizar, o alguna otra actividad que creas que pueda ser enriquecedora para la comunidad, crea una issue y quizá entre todos podamos darle forma y fecha a la idea.
 
